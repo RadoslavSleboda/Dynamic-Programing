@@ -5,4 +5,4 @@ It is very effective program that use memorization to stop less effective rutes 
 
 
 Try click on big maze button. To small maze if you want to check correctness of answer easily.
-For custom maze first write maze in right textpane use only numbers each row must be equaly long.
+For custom maze first write your maze in right textpane use only numbers each row must be equaly long.
